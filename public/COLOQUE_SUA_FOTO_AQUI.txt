@@ -1,0 +1,10 @@
+Para adicionar sua foto de perfil:
+
+1. Renomeie sua foto para: profile.jpg
+2. Cole ela nesta pasta: /public/profile.jpg
+3. Reinicie o servidor com: npm run dev
+
+A foto aparecerá na seção "Sobre Mim" do site.
+
+Tamanho recomendado: mínimo 800x1000px (retrato)
+Formato: .jpg ou .png
